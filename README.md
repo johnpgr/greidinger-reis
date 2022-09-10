@@ -1,0 +1,4 @@
+- 👋 Hi, I'm John, an average Typescript enjoyer. 
+- 👀  I'm interested in fullstack web development, using modern frameworks such as Next.js to increase productivity.
+- 🌱 I’m currently learning React, Typescript, Serverless computing.
+- 💞️ I’m looking to collaborate on React projects specially Next.js and [T3 Stack](https://init.tips) 

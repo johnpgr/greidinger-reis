@@ -1,3 +1,3 @@
-- 👋 Hi, I'm Joao Paulo Greidinger dos Reis, a beginner fullstack Javascript & Typescript web developer. 
+- 👋 Hi, I'm Joao Paulo Greidinger dos Reis, a fullstack Javascript & Typescript web developer. 
 - 📚 I’m currently learning React, Next.js, Astro, Prisma, TRPC, Vercel
 - 💖 My favorite stack is the [t3 stack](https://init.tips/), which offers fullstack typesafety using Next.js, Prisma & tRPC
